@@ -15,7 +15,7 @@ export default function Grants() {
         <p>Welcome to GrantBounty Connect Grants! We support innovative projects and ideas that contribute to the advancement of technology and society.</p>
         
         <h2 style={{marginTop:'20px'}}><strong>What Are Grants?</strong></h2>
-        <p><strong style={{ color: '#ff6d00', fontWeight: 900 }}><br />"Grants"</strong> can refer to financial assistance provided by governments, organizations, or individuals to fund specific projects, activities, or initiatives. Grants are typically awarded based on certain criteria, such as the merit of the proposed project, the organization's mission, or the needs of a particular community.
+        <p><strong style={{ color: '#ff6d00', fontWeight: 900 }}><br />&quot;Grants&quot;</strong> can refer to financial assistance provided by governments, organizations, or individuals to fund specific projects, activities, or initiatives. Grants are typically awarded based on certain criteria, such as the merit of the proposed project, the organization&apos;s mission, or the needs of a particular community.
 
 Grants can be provided for various purposes, including scientific research, education, arts and culture, community development, healthcare, environmental conservation, and more. They are often non-repayable, meaning that recipients are not required to pay back the funds, although they may be subject to certain conditions or reporting requirements.
 

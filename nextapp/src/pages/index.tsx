@@ -75,7 +75,7 @@ export default function Home() {
               Build the best ecosystems on <span style={{ color: '#ff5722' }}>G</span>rant<span style={{ color: '#ff5722' }}>B</span>ounty <span style={{ color: '#ff5722' }}>C</span>onnect
             </h2>
             <p style={{ fontSize: '1.05rem', lineHeight: '1.75rem' }}>
-              GrantBounty Connect is a blockchain based grant bounty platform. Here maintainers can create Grantor Bounties for their issues and contributors can claim them. The amount is then transferred to the contributor's account once the issue is closed and accepted by the maintainer.
+              GrantBounty Connect is a blockchain based grant bounty platform. Here maintainers can create Grantor Bounties for their issues and contributors can claim them. The amount is then transferred to the contributor&apos;s account once the issue is closed and accepted by the maintainer.
             </p>
           </div>
 
@@ -119,7 +119,7 @@ export default function Home() {
                   <div className="grid-content">
                     <i className="fas fa-chevron-down down-arrow"></i>
                     <h3>OpenSea</h3>
-                    <p>OpenSea is the world's first and largest platform for buying, selling, and auctioning non-fungible tokens (NFTs) and other digital assets on the blockchain.</p>
+                    <p>OpenSea is the world&apos;s first and largest platform for buying, selling, and auctioning non-fungible tokens (NFTs) and other digital assets on the blockchain.</p>
                     {/* <ul>
                       <li>Grant DAOs</li>
                       <li>Mini Grant</li>
